@@ -1,0 +1,5 @@
+C:\Users\Rémy\Desktop\Perso\Dev\C#\Pierre Feuille Ciseaux\Pierre Feuille Ciseaux\bin\Release\net6.0\app.publish\Pierre Feuille Ciseaux.exe
+C:\Users\Rémy\Desktop\Perso\Dev\C#\Pierre Feuille Ciseaux\Pierre Feuille Ciseaux\bin\Release\net6.0\app.publish\Pierre Feuille Ciseaux.dll
+C:\Users\Rémy\Desktop\Perso\Dev\C#\Pierre Feuille Ciseaux\Pierre Feuille Ciseaux\bin\Release\net6.0\app.publish\Pierre Feuille Ciseaux.deps.json
+C:\Users\Rémy\Desktop\Perso\Dev\C#\Pierre Feuille Ciseaux\Pierre Feuille Ciseaux\bin\Release\net6.0\app.publish\Pierre Feuille Ciseaux.runtimeconfig.json
+C:\Users\Rémy\Desktop\Perso\Dev\C#\Pierre Feuille Ciseaux\Pierre Feuille Ciseaux\bin\Release\net6.0\app.publish\Pierre Feuille Ciseaux.pdb
